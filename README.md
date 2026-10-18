@@ -1,6 +1,6 @@
 # Chiplet Thermal Studio
 
-A desktop workbench for the SUNDAI *Beat the Hotspot* challenge: place four GPU
+A desktop workbench for the SUNDAI *Design the coolest chip* challenge: place four GPU
 and four HBM chiplets on a 52 × 42 mm silicon interposer, route the eight
 compulsory links by hand, edit the power traces, and run HotSpot over the
 result.
